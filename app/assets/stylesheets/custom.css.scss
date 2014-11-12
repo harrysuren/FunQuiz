@@ -17,7 +17,7 @@ html {
 }
 
 body {
-  padding-top: 90px;
+  padding-top: 180px;
 }
 
 section {
@@ -81,7 +81,7 @@ p {
 }
 
 #logo:hover {
-  color: #fff;
+  color: red;
   text-decoration: none;
 }
 
@@ -129,4 +129,25 @@ input {
   width: 1000px;
     display: block;
     margin-left: auto;
+}
+
+
+#buttonbtn {
+  border: 0;
+  background: transparent;
+  color: gray;
+   margin-top: 13px;
+}
+
+#buttonbtn1 {
+  border: 0;
+  background: transparent;
+  color: #007CCF;
+   margin-top: 17px;
+}
+
+#buttonbtn:hover
+{
+  color: white;
+   
 }

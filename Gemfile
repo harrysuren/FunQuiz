@@ -13,6 +13,9 @@ gem 'jquery-countdown-rails', '~> 2.0.0'
 gem 'bootstrap-sass', '3.2.0.0'
 gem 'will_paginate',           '3.0.7'
 gem 'bootstrap-will_paginate', '0.0.10'
+gem 'actionpack-page_caching'
+gem 'rails-observers'
+gem 'actionpack-action_caching'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets

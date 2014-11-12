@@ -1,6 +1,6 @@
 class SessionsController < ApplicationController
 
-#caches_page :new 
+ caches_page :new 
 
   def new
   end
